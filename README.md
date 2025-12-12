@@ -1,5 +1,5 @@
 ## Hi there 👋
 
-Moje inne projekty:
+Moje projekty:
 
-🚀 **[Attractor Builder - Zobacz dokumentację i przykłady](https://pcabala.github.io/AttractorBuilder/en/)**
+🚀 **[Attractor Builder - dodatek do Blendera: zobacz przykłady i dokumentację](https://pcabala.github.io/AttractorBuilder/en/)**
