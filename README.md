@@ -2,6 +2,6 @@
 
 # 🌀 Attractor Builder
 [![Blender Add-on](https://img.shields.io/badge/Blender-Add--on-orange?logo=blender)](https://pcabala.github.io/AttractorBuilder/en/)
-[![Documentation](https://img.shields.io/badge/Docs-Read_Now-blue?logo=github)](https://pcabala.github.io/AttractorBuilder/en/)
+[![Documentation](https://img.shields.io/badge/Docs-Read_Now-blue?logo=github)](https://pcabala.github.io/AttractorBuilder/addon/)
 
-Generate and visualize 3D chaotic attractors efficiently.
+> <img src="https://raw.githubusercontent.com/pcabala/AttractorBuilder/main/docs/assets/media/icons/blender-mini.svg" width="20" style="vertical-align:middle" /> **[Attractor Builder](https://pcabala.github.io/AttractorBuilder/en/)** - Generate 3D chaotic attractors in Blender.
